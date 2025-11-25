@@ -1,6 +1,8 @@
 package com.benefex.exam.model;
 
-
+/*This POJO is used in the controller as object representation to employee
+ *
+ */
 public class EmployeePojo {
     public EmployeePojo() {
     }

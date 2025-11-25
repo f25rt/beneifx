@@ -7,6 +7,9 @@ import org.springframework.stereotype.Component;
 
 import java.util.List;
 
+/*
+ This mapper class is using mapStruct to mapped two objects to reduce boilerplate
+ */
 @Component
 @Mapper(componentModel = "spring")
 public interface EmployeeMapper {
